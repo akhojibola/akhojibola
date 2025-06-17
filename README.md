@@ -47,19 +47,10 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhojibola&show_icons=true&theme=github_dark" alt="akhojibola stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhojibola&layout=compact&theme=github_dark" alt="akhojibola languages" height="180"/>
-</p>
-
----
-
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=akhojibola&theme=dark&hide_border=false" alt="akhojibola streak" />
+  <img src="https://streak-stats.demolab.com?user=akhojibola&theme=dark&hide_border=false" alt="akhojibola streak" />
 </p>
 
 ---
