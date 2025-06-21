@@ -47,12 +47,4 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=akhojibola&theme=dark&hide_border=false" alt="akhojibola streak" />
-</p>
-
----
-
 > _“Build for the user, design for the team, write code for the future.”_ – Xojiakbar
