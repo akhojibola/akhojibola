@@ -15,17 +15,17 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-- 👔 Team Lead and Full Stack Developer at New Uzbekistan University  
-- 🔍 Specializing in modern web and mobile app development with a strong focus on scalable architecture  
-- ⚙️ Experienced in building production-grade software with attention to performance, code quality, and maintainability  
-- 🌐 Building intuitive UIs and robust backends for platforms used in education, HR, and internal tooling  
-- 🌍 From Andijan, Uzbekistan 🇺🇿
+- Team Lead and Full Stack Developer at New Uzbekistan University  
+- Specializing in modern web and mobile app development with a strong focus on scalable architecture  
+- Experienced in building production-grade software with attention to performance, code quality, and maintainability  
+- Building intuitive UIs and robust backends for platforms used in education, HR, and internal tooling  
+- From Andijan, Uzbekistan 🇺🇿
 
 ---
 
-### 💼 Tech Stack & Tools
+### Tech Stack & Tools
 
 #### Languages & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -44,6 +44,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhojibola&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhojibola&layout=compact&theme=dark)
 
 ---
 
